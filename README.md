@@ -1,2 +1,2 @@
 # Lab7
-Transmitter &amp; Receiver 
+Transmitter and receiving data on groveboar
